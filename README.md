@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+the absolute path name of the current working directory
